@@ -8,5 +8,5 @@ hostname = socket.gethostname()
 ip_address = socket.gethostbyname(hostname)
 
 # Display the result
-print("Hostname:", hostname)
+print("Hostname:", hostname) 
 print("IP Address:", ip_address)
