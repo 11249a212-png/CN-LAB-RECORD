@@ -16,6 +16,6 @@ arp -a
 
 tasklist
 
-hostname
 ipconfig
-
+hostname
+nslookup google.com
